@@ -1,2 +1,2 @@
-# keerthivit
-Resume
+# Keerthi_ECE_VIT
+Certificates
